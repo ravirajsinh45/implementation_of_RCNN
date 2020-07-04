@@ -71,9 +71,13 @@ I used my [Crop and Weed detection](https://www.kaggle.com/ravirajsinh45/crop-an
 
   
   ### Good Predictions
-
+      ![](https://github.com/ravirajsinh45/implementation_of_RCNN/blob/master/predictions/good_1.jpeg)
+      ![](https://github.com/ravirajsinh45/implementation_of_RCNN/blob/master/predictions/good_2.jpeg)
   ### Bad predictions
+      ![](https://github.com/ravirajsinh45/implementation_of_RCNN/blob/master/predictions/bad_1.jpeg)
+      ![](https://github.com/ravirajsinh45/implementation_of_RCNN/blob/master/predictions/bad_2.jpeg)
 
 
+# Thank You:)
 
 
